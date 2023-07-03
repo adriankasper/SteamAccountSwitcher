@@ -16,7 +16,7 @@ Switch between Steam accounts effortlessly.
 # Usage instructions
 1. E - Edit mode
 2. Numbers 1-5 to choose an account slot to edit
-3. Enter steam username
+3. Enter steam username (lowercase only)
 4. Numbers 1-5 to choose your account
 5. Steam will be logged out of current account
 6. First time log in will ask for password, check "Remember me"
