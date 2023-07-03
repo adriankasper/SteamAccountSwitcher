@@ -1,7 +1,9 @@
 # SteamAccountSwitcher
 Switch between Steam accounts effortlessly.
 
-![Preview image](https://github.com/2BSS/SteamAccountSwitcher/blob/main/Screenshots/SteamAccountSwitcherMenuPreview.png?raw=true)
+<p align="center">
+  <img src="https://github.com/2BSS/SteamAccountSwitcher/blob/main/Screenshots/SteamAccountSwitcherMenuPreview.png?raw=true" alt="Preview image">
+</p>
 
 
 # Install steps
