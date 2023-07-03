@@ -26,3 +26,5 @@ Switch between Steam accounts effortlessly.
 # Uninstall steps
 * Delete the folder %appdata%\Roaming\SteamAccountSwitcher
 * Delete the shortcut from the desktop
+  
+<sup><sub>This project is a result of my personal need for such script and serves as a hobby project.</sub></sup>
