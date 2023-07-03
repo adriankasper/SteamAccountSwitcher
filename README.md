@@ -1,10 +1,7 @@
 # SteamAccountSwitcher
 Switch between Steam accounts effortlessly.
 
-<p align="left">
-  <img src="https://github.com/2BSS/SteamAccountSwitcher/blob/main/Screenshots/SteamAccountSwitcherMenuPreview.png?raw=true" alt="Preview image">
-</p>
-
+![Preview image](https://github.com/2BSS/SteamAccountSwitcher/blob/main/Screenshots/SteamAccountSwitcherMenuPreview.png?raw=true)
 
 # Install steps
 * Place SteamAccountSwitcher.bat on your desktop
