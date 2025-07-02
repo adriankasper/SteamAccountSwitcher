@@ -13,6 +13,12 @@ for /f "delims=" %%E in ('forfiles /p "%~dp0." /m "%~nx0" /c "cmd /c echo(0x1B"'
 
 setlocal EnableExtensions EnableDelayedExpansion
 
+if NOT defined skipRelaunch (
+    set "skipRelaunch=true"
+    start %windir%\system32\conhost.exe %0
+    exit /b 0
+)
+
 (
     for /l %%a in (1 1 5) do (
         set /p "username-%%a="
